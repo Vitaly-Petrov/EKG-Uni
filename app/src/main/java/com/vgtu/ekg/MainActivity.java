@@ -66,12 +66,12 @@ public class MainActivity extends AppCompatActivity {
 
     private ActionBar bar;
     private View mview;
-//переменные контроля сердечного ритма
+    //переменные контроля сердечного ритма
     HeartRateAcceleration  heartRateAcceleration;
     int smoothedHeartRate;
 
 
-
+    //переменные для виджетов
     private ImageButton btnMinimize;
     private ImageButton btnBluetooth;
     private ImageButton btnImageUsers;
