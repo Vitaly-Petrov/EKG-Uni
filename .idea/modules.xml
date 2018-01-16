@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/EKG.iml" filepath="$PROJECT_DIR$/EKG.iml" />
+      <module fileurl="file://C:\VersionGIT\EKG-Uni\EKG.iml" filepath="C:\VersionGIT\EKG-Uni\EKG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EKG-Uni.iml" filepath="$PROJECT_DIR$/EKG-Uni.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\VersionGIT\EKG-Uni\app\app.iml" filepath="C:\VersionGIT\EKG-Uni\app\app.iml" />
     </modules>
   </component>
 </project>

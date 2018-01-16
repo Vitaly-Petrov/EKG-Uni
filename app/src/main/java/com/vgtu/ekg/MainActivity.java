@@ -66,6 +66,7 @@ public class MainActivity extends AppCompatActivity {
 
     private ActionBar bar;
     private View mview;
+
     HeartRateAcceleration  heartRateAcceleration;
     int smoothedHeartRate;
 
